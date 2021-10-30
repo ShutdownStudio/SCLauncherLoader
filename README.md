@@ -1,6 +1,6 @@
 # Shutdown_craft Launcher Loader
-
  **⚠️警告：本软件经过测试可全平台运行，但在某些电脑上可能会出现错误** 
+
 
 #### 介绍
 Shutdown_craft Launcher准备程序</br>
