@@ -1,8 +1,11 @@
 # Shutdown_craft Launcher Loader
 
+ **⚠️警告：本软件经过测试可全平台运行，但在某些电脑上可能会出现错误** 
+
 #### 介绍
 Shutdown_craft Launcher准备程序</br>
 主要检测Minecraft与启动器的运行环境，如果可以会自动补全环境
+
 
 
 #### 使用说明
