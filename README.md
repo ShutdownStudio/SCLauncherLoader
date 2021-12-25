@@ -1,6 +1,6 @@
 # Shutdown_craft Launcher Loader
  **⚠️警告：下载或使用本程序请仔细阅读《用户条款》([RULES](https://gitee.com/shutdown_craft/sclauncher-loader/blob/master/RULES.md))** 
- **本项目在Gitee有同步仓库，但是我们无法保证Gitee仓库的及时性以及完整性，任何内容请以Github为准**
+ **本项目在[Gitee](https://gitee.com/shutdownstudio/sclauncher-loader)有同步仓库，但是我们无法保证Gitee仓库的及时性以及完整性，任何内容请以[Github](https://github.com/ShutdownStudio/SCLauncherLoader)为准**
 
 #### 介绍
 Shutdown_craft Launcher准备程序</br>
