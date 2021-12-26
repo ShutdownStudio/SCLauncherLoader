@@ -3,6 +3,7 @@
 
  **本项目在[Gitee](https://gitee.com/shutdownstudio/sclauncher-loader)有同步仓库，但是我们无法保证Gitee仓库的及时性以及完整性，任何内容请以[Github](https://github.com/ShutdownStudio/SCLauncherLoader)为准**
 
+ **任何反馈(例如bug)请在Github提交，Gitee的内容仅用于同步Github信息，方便用户**
 #### 介绍
 Shutdown_craft Launcher准备程序</br>
 1. 检测 Minecraft运行环境 并自动安装
