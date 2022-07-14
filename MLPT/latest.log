@@ -1,0 +1,49 @@
+
+[19:36:47][Unknown]Delete Temp files
+[19:36:47][functionCoreApp]Needn't install .NET
+[19:36:47][functionCoreApp]Needn't install java
+[19:36:47][.NETcheck].NETversion ¡Ý 4.5
+[19:36:47][.NETcheck]Version=528449
+[19:36:47][.NETcheck]start to check .NET
+[19:36:47][javacheck]java version is correct!
+[19:36:47][javacheck]javaVersion=11
+[19:36:47][javacheck]javaVersion(Include the subversion number)=11.0.11
+
+[19:36:47][javacheck]java have installed, started to check version
+[19:36:47][javacheck]cmd feedback=javac 11.0.11
+
+[19:36:45][javacheck]start to check java
+[19:36:45][javacheck]loading config...
+[19:36:45][functionCoreMain]loading config....
+[19:36:42][functionCoreEula]Reg Key Enter----¡¾functionCoreMain¡¿
+[19:36:41][functionCoreReady]Reg Key Enter----¡¾functionCoreEula¡¿
+[19:36:40][preload]Preload complete!
+[19:36:40][libToolDownload]mode=feedback
+[19:36:40][libToolDownload]Checking error...
+[19:36:40][libToolDownload]try to download form:https://gitee.com/shutdownstudio/sclauncher-loader/raw/master/res/Rules.md
+[19:36:40][Unknown]getting eula...
+[19:36:40][UI]start to hide MsgBox
+[19:36:38][UI]start to show MsgBox
+[19:36:38][MsgBOX]preparing ui
+[19:36:38][preload]Got admin message!
+[19:36:38][Unknown]showing public information
+[19:36:38][preload]start to load setting&config
+[19:36:38][libToolDownload]mode=save
+[19:36:38][libToolDownload]Checking error...
+[19:36:38][libToolDownload]try to download form:https://gitee.com/shutdownstudio/sclauncher-loader/raw/master/config/Config.ini
+[19:36:38][libToolDownload]mode=save
+[19:36:38][libToolDownload]Checking error...
+[19:36:36][libToolDownload]try to download form:https://gitee.com/shutdownstudio/sclauncher-loader/raw/master/res/Setting.ini
+[19:36:36][preload]config file's URL: https://gitee.com/shutdownstudio/sclauncher-loader/raw/master/config/Config.ini
+[19:36:36][preload]start to download setting&config files
+[19:36:36][preload]Cleaning older files&folder
+[19:36:36][preload]checking computer
+[19:36:36][preload]Version: 102
+[19:36:36][preload]Dir: C:\Desktop\FILES\Ò×ÓïÑÔ\MLPT
+[19:36:36][preload]System: Windows 10
+[19:36:36][preload]64-bits: 1
+[19:36:36][preload]CPU: Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz
+[19:36:35][Unknown]loading local config
+[19:36:35][Unknown]preparing ui
+[19:36:35][Unknown]found mlpt.ini, start to load ui
+[19:36:35][boot]debug mode was on
